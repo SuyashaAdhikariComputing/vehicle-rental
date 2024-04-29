@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TransportGUI
+comment1.params=
+comment1.target=void\ choose()
+comment1.text=this\ is\ the\ method\ for\ the\ main\ gui\ where\ we\ can\ choose\ between\ autorickshaw\ and\ electric\ scooter.This\ method\ consists\ of\ frame\ \r\nnamed\ first.The\ panal\ lable\ and\ two\ buttons\ are\ added\ in\ the\ frame.\ The\ panel\ is\ named\ as\ one\ and\ button\ as\ button1\ and\ button2
+comment2.params=
+comment2.target=void\ AutoRickshaw()
+comment2.text=this\ is\ the\ method\ for\ the\ autorickshaw\ gui\ which\ has\ many\ fields\ like\ .This\ method\ consists\ of\ frame\ \r\nnamed\ second.The\ panal\ lable\ and\ buttons\ are\ added\ in\ the\ frame.\ The\ panel\ is\ named\ as\ two\ and\ button\ as
+comment3.params=
+comment3.target=void\ ElectricScooter()
+comment4.params=e
+comment4.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment4.text=\ This\ is\ the\ method\ with\ name\ mouseEntered\ it\ takes\ MouseEvent\ e\ as\ as\ a\ parameter.\ This\ method\ is\ used\ to\ add\ the\ hover\ effect.\ After\ \r\n\ \ \ \ \ \ \ using\ this\ method\ and\ adding\ it\ to\ the\ button\ the\ button\ change\ its\ color\ to\ red\ when\ hovered.\ This\ effect\ is\ added\ to\ all\ the\ buttons\r\nin\ the\ gui
+comment5.params=e
+comment5.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment5.text=\ This\ is\ the\ method\ with\ name\ mouseexited\ it\ takes\ MouseEvent\ e\ as\ as\ a\ parameter.\ This\ method\ is\ used\ to\ add\ the\ hover\ effect.\ After\ \r\n\ \ \ \ \ \ \ using\ this\ method\ and\ adding\ it\ to\ the\ button\ the\ button\ change\ to\ original\ form\ after\ stopping\ to\ hover.\ This\ effect\ is\ added\ to\ all\r\nthe\ buttons\ in\ the\ gui
+comment6.params=ee
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.text=this\ method\ name\ id\ action\ performed\ it\ is\ inside\ action\ listener\ and\ helps\ in\ event\ handelling.\ yhis\ method\ takes\ acton\ event\ ee\ as\ \r\nparameter.\ this\ method\ is\ used\ here\ to\ exit\ from\ gui\ clear\ data\ from\ the\ textfield
+comment7.params=aargs
+comment7.target=void\ main(java.lang.String[])
+numComments=8

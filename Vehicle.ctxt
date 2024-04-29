@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ This\ is\ the\ parent\ class\ vehicle.\ The\ attributes\ of\ the\ class\ are\ vehicle_id,\ vehicle_name,\ vehicle_weight,\ vehicle_color\ and\ \r\n\ vehicle_speed.\ A\ constructor\ which\ accepts\ vehicle_name,\ vehicle_id,\ vehicle_weight,vehicle_color\ as\ parameter\ is\ made.\ Each\ attributes\ \r\n\ has\ an\ accessor\ method.\ The\ attributes\ vehicle_color\ and\ vehicle_speed\ has\ mutator\ method\ also.\ A\ display\ method\ is\ created\ to\ display\ \r\n\ the\ output.\ It\ displays\ name,\ color,\ speed,\ id\ of\ the\ vehicle\ and\ weight\ is\ displayed\ if\ only\ it\ has\ some\ value\ in\ case\ there\ is\ no\ \r\n\ value\ it\ prints\ that\ the\ weight\ is\ empty\r\n\ \r\n\ @authur\ Suyasha\ Adhikari\r\n\ @date\ 2022-5-14\r\n
+comment1.params=vehicle_name\ vehicle_weight\ vehicle_color\ vehicle_id
+comment1.target=Vehicle(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\ creating\ paramaterized\ constructor\ of\ vehicle\ class\r\n\ \ \ \ \ \ \ the\ parameter\ accepts\ Vehicle\ name,vehicle\ weight,vehicle\ color\ and\ vehicle\ id\ as\ parameter\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=the\ getter\ method\ or\ accessor\ method\ for\ every\ attributes\ is\ created\r\n\ \ \ \ \ \ getter\ method\ is\ created\ when\ the\ variables\ are\ made\ private\ so\ that\ other\ class\ can\ access\ the\ data\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWeight()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=java.lang.String\ getSpeed()
+comment6.params=
+comment6.target=int\ getId()
+comment7.params=vehicle_speed
+comment7.target=void\ setSpeed(java.lang.String)
+comment8.params=vehicle_color
+comment8.target=void\ setColor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
